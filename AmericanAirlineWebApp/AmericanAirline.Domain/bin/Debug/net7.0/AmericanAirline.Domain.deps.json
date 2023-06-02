@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AmericanAirline.Domain/1.0.0": {
+        "dependencies": {
+          "AmericaAirline.Infraestructure": "1.0.0"
+        },
+        "runtime": {
+          "AmericanAirline.Domain.dll": {}
+        }
+      },
+      "AmericaAirline.Infraestructure/1.0.0": {
+        "runtime": {
+          "AmericaAirline.Infraestructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AmericanAirline.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AmericaAirline.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

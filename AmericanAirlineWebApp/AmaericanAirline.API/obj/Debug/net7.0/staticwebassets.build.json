@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KMjOsSrYG6NUTR1o2jXt4xqVvcl0+xRt65GsjwDUg84=",
+  "Source": "AmaericanAirline.API",
+  "BasePath": "_content/AmaericanAirline.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

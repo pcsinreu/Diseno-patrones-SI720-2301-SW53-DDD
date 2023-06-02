@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/AmericaAirlines.UI.props" />
+</Project>

@@ -1,0 +1,12 @@
+/Users/naldo_reupo-musayon/RiderProjects/Diseno-patrones-SI720-2301-SW53-DDD/AmericanAirlineWebApp/AmericanAirline.Security/bin/Debug/net7.0/AmericanAirline.Security.deps.json
+/Users/naldo_reupo-musayon/RiderProjects/Diseno-patrones-SI720-2301-SW53-DDD/AmericanAirlineWebApp/AmericanAirline.Security/bin/Debug/net7.0/AmericanAirline.Security.dll
+/Users/naldo_reupo-musayon/RiderProjects/Diseno-patrones-SI720-2301-SW53-DDD/AmericanAirlineWebApp/AmericanAirline.Security/bin/Debug/net7.0/AmericanAirline.Security.pdb
+/Users/naldo_reupo-musayon/RiderProjects/Diseno-patrones-SI720-2301-SW53-DDD/AmericanAirlineWebApp/AmericanAirline.Security/obj/Debug/net7.0/AmericanAirline.Security.csproj.AssemblyReference.cache
+/Users/naldo_reupo-musayon/RiderProjects/Diseno-patrones-SI720-2301-SW53-DDD/AmericanAirlineWebApp/AmericanAirline.Security/obj/Debug/net7.0/AmericanAirline.Security.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naldo_reupo-musayon/RiderProjects/Diseno-patrones-SI720-2301-SW53-DDD/AmericanAirlineWebApp/AmericanAirline.Security/obj/Debug/net7.0/AmericanAirline.Security.AssemblyInfoInputs.cache
+/Users/naldo_reupo-musayon/RiderProjects/Diseno-patrones-SI720-2301-SW53-DDD/AmericanAirlineWebApp/AmericanAirline.Security/obj/Debug/net7.0/AmericanAirline.Security.AssemblyInfo.cs
+/Users/naldo_reupo-musayon/RiderProjects/Diseno-patrones-SI720-2301-SW53-DDD/AmericanAirlineWebApp/AmericanAirline.Security/obj/Debug/net7.0/AmericanAirline.Security.csproj.CoreCompileInputs.cache
+/Users/naldo_reupo-musayon/RiderProjects/Diseno-patrones-SI720-2301-SW53-DDD/AmericanAirlineWebApp/AmericanAirline.Security/obj/Debug/net7.0/AmericanAirline.Security.dll
+/Users/naldo_reupo-musayon/RiderProjects/Diseno-patrones-SI720-2301-SW53-DDD/AmericanAirlineWebApp/AmericanAirline.Security/obj/Debug/net7.0/refint/AmericanAirline.Security.dll
+/Users/naldo_reupo-musayon/RiderProjects/Diseno-patrones-SI720-2301-SW53-DDD/AmericanAirlineWebApp/AmericanAirline.Security/obj/Debug/net7.0/AmericanAirline.Security.pdb
+/Users/naldo_reupo-musayon/RiderProjects/Diseno-patrones-SI720-2301-SW53-DDD/AmericanAirlineWebApp/AmericanAirline.Security/obj/Debug/net7.0/ref/AmericanAirline.Security.dll
